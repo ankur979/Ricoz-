@@ -14,5 +14,5 @@ Briefly describe the API routes and their functionality. Include examples if nee
 Explain any configuration settings or environment variables that users need to set.
 
 ### Environment Variables
-- **PORT=**5000
-- **NODE_ENV_MONGODB_URL=**mongodb://localhost:27017/your_database_name
+- **PORT** =5000
+- **NODE_ENV_MONGODB_URL**= mongodb://localhost:27017/your_database_name
